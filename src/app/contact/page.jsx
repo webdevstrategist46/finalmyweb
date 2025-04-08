@@ -107,11 +107,7 @@ function MainComponent() {
                   Send Message
                 </button>
 
-                {status && (
-                  <p className="text-center text-green-500 mt-4 fade-in">
-                    {status}
-                  </p>
-                )}
+               
               </form>
             </div>
           </div>
